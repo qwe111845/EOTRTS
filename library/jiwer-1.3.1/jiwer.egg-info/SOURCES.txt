@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+jiwer/__init__.py
+jiwer/wer.py
+jiwer.egg-info/PKG-INFO
+jiwer.egg-info/SOURCES.txt
+jiwer.egg-info/dependency_links.txt
+jiwer.egg-info/not-zip-safe
+jiwer.egg-info/requires.txt
+jiwer.egg-info/top_level.txt
