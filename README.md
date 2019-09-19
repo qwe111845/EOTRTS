@@ -41,5 +41,5 @@ nao_server的完成版，分離出個別輔導練習的功能，使用NAO機器�
     本系統所用到的library，這邊只有網路上需要找一下或者要改寫的，像是jiwer。
     
  10. venv
-   
-    本系統的虛擬Python環境
+     
+     本系統的虛擬Python環境
